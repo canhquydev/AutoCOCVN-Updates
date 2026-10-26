@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.8`
-- **Updated At**: `2026-10-26 16:26:18`
+- **Latest Version**: `v6.0.0`
+- **Updated At**: `2026-10-26 16:33:54`
 
 ### Nội dung cập nhật (VI)
-Phiên bản 6.0.8: Bổ sung nút Tạm dừng/Tiếp tục từng bot và hệ thống Tự động Cập nhật OTA.
+Phiên bản cũ giả lập để kiểm thử OTA.
 
 ### Update Notes (EN)
-Version 6.0.8: Added per-bot Pause/Resume button and OTA Auto-Update system.
+Simulated older version for OTA testing.
