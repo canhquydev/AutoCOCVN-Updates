@@ -1,18 +1,18 @@
 {
   "version": "6.0.8",
-  "build_date": "2026-10-26 16:52:18",
+  "build_date": "2026-10-26 20:02:53",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
   "changelog": {
-    "vi": "Phiên bản 6.0.8: Bổ sung nút Tạm dừng/Tiếp tục từng bot•Tích hợp hệ thống Tự động Cập nhật từng phần (OTA Delta)•Tối ưu hóa giao diện và tốc độ khởi động.",
-    "en": "Version 6.0.8: Added per-bot Pause/Resume button•Integrated Zero-Click Delta Auto-Update (OTA) system•Optimized UI responsiveness and startup speed."
+    "vi": "AutoCOCVN v6.0.8",
+    "en": "AutoCOCVN v6.0.8"
   },
-  "manifest_sha256": "1a5cabab9c5b8b44c5b6083ae6925cd54bc5091d83d93f47f77235f5f1fdc09f",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiIxYTVjYWJhYjljNWI4YjQ0YzViNjA4M2FlNjkyNWNkNTRiYzUwOTFkODNkOTNmNDdmNzcyMzVmNWYxZmRjMDlmIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.4PI4EQ5EO4q1KM0TbJucjYbNt3eqlUe6z9gnaaiSeDgbADy2-Y-DRZKhgLNwb7jx_7SAd5KhNO1eE0sF7PfsVK0MIk8t13pGyIGW694gawJZ6MizDn5c23ogLpyCS9cXEfuxrUpdPckhH5kPM2aWfj-TxKSL3h4JMBU4pbm-cpq0bXNcym5FBf3mUgOKLdzjdtUiuXFRDCqO9MLQ6rRxUjebpiMNoK_WhMNZvEAZwAhzsjM_YSyhnF19jYwT_nbGEwgCRGUxPqzoh0t1H1deYqengpndoSQUFzRXMimcBObSGF-7hE_a3R6kWAeK_UF7futcUde7rI6qQ8qI9hpTUg",
+  "manifest_sha256": "65b83cfaca39102f69f0671826f5f1584535f69ddd72e0456e7802081680884a",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiI2NWI4M2NmYWNhMzkxMDJmNjlmMDY3MTgyNmY1ZjE1ODQ1MzVmNjlkZGQ3MmUwNDU2ZTc4MDIwODE2ODA4ODRhIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.vmeWSdfsGnS4TBiFZr2-OlMPWi2zgOi6kqz38x5wyVVoO77SLq5U36nuIrFmxzuxHp0mkE50zP1FnZBTYh1qhgTYz4PR7qhlBHCUhsqmNu7vQKsOwDbeq2Aj4ZCyrt1OE_z4sK_KxHdrHLO_koFQKoG3wHwSgOyxfkw3UudM4QiX8rZLRJ714eJbITYaLaxUwH4SHmhJyILqLM5FM870RapdnR1gNR50L6gP62qYmi0GtIdWWqCHK1gqefr8uNxiQkJUsyZW_yK-GUyKIdMNtyg83u570Ma8UPSXHt_5i0oxab6IfQA4MMyPdLB0eSMSyGrpXyrf3R0g5bwtiX0HEQ",
   "files": {
     "AutoCOCVN.exe": {
-      "sha256": "a885e02a7e3ca14a0d135494a7cdd243b90ca862702631e7125a09743867d83a",
+      "sha256": "48a668b10ba7fd61b8c2877e871c019264c4d17491ff8140a079f84e41d0eb8d",
       "size": 306176,
       "category": "core",
       "restart": true
@@ -36,8 +36,8 @@
       "restart": true
     },
     "bin/engine.dat": {
-      "sha256": "d64df9a0d6d5c5a43399a20f3070e0512d7a33e5e68064c4ce959f03a12bbafc",
-      "size": 2696352,
+      "sha256": "12f39c478f1b4d50e401cc6a3f2c57926c19c6d0fec18212e2fa8b508ac14a4c",
+      "size": 2688160,
       "category": "core",
       "restart": true
     },
@@ -54,14 +54,14 @@
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "a73f7a2de6daa04a5463d2ab310913b5ec41ce513a9b1e10015ab4ef66bcd997",
-      "size": 38742,
+      "sha256": "54b54cff0630d18610543c4b8822676d57701d30f44beb0d976f35ab4c15974a",
+      "size": 38410,
       "category": "manifest",
       "restart": false
     },
     "bin/web_vault.bin": {
-      "sha256": "4e813db342afc753ad8cf66923924e9d4166b9ef9c230a690b977b4dc14f8591",
-      "size": 1002712,
+      "sha256": "c209ef262ff09413680e585ccdf4ebbcddd2cefec23724ba939dd1ffbb445dfb",
+      "size": 993483,
       "category": "ui",
       "restart": true
     },
@@ -7206,8 +7206,8 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "a73f7a2de6daa04a5463d2ab310913b5ec41ce513a9b1e10015ab4ef66bcd997",
-      "size": 38742,
+      "sha256": "54b54cff0630d18610543c4b8822676d57701d30f44beb0d976f35ab4c15974a",
+      "size": 38410,
       "category": "manifest",
       "restart": false
     },
