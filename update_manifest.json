@@ -1,15 +1,15 @@
 {
-  "version": "6.0.0",
-  "build_date": "2026-10-26 16:33:54",
+  "version": "6.0.8",
+  "build_date": "2026-10-26 16:35:02",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
   "changelog": {
-    "vi": "Phiên bản cũ giả lập để kiểm thử OTA.",
-    "en": "Simulated older version for OTA testing."
+    "vi": "Phiên bản 6.0.8: Bổ sung nút Tạm dừng/Tiếp tục từng bot và hệ thống Tự động Cập nhật OTA.",
+    "en": "Version 6.0.8: Added per-bot Pause/Resume button and OTA Auto-Update system."
   },
-  "manifest_sha256": "68fe4c08a6b155f243880affc06ed5c396df0fe31b56d4aefe43bbf3a5f110c9",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjAiLCJtYW5pZmVzdF9zaGEyNTYiOiI2OGZlNGMwOGE2YjE1NWYyNDM4ODBhZmZjMDZlZDVjMzk2ZGYwZmUzMWI1NmQ0YWVmZTQzYmJmM2E1ZjExMGM5IiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.tq7AaoswH-Rpt96HoLfIe3tEG-yWEKckAY6NOwl51VE3h5YyqfNZPhRgxgnXzVj_JyHN55_rPlaY4kglXsiMlsC0NeIL6wzOyQUhpLBxh_uZR-IcWoyV-l0ZnJ3eu9P8-Ensm6UpoEouia4tQTgS81Y_j18UnD0Qgsr3KR_kbMchIbdrMMATxlnhqB8lV0PcwZGr0osmJ1fA1S2yQP_IFNba2tDbCGEVeKgodLQV2LdyLMYbfkEx_HD3XHHH3APGlkIueqys_COHcVpGY2xXI9DDxLH4GYJ5_rZoVo6C7r25QeCegVfUXMCfjlbTMId6aiG2Z_yEOLmQLzhyiFOhzg",
+  "manifest_sha256": "8433e17d9e410e00259b2e5bf68f8600341b725489ea9c5b0ee942e363567647",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiI4NDMzZTE3ZDllNDEwZTAwMjU5YjJlNWJmNjhmODYwMDM0MWI3MjU0ODllYTljNWIwZWU5NDJlMzYzNTY3NjQ3IiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.M0wdfx80rK1PQmTC4py47SPIP0yrdfZJHPvkbjTKYYlF_NP_N8bztFlpinORzg35IMW4AI7CvmXnbD2enaKWgZnuwZ1BTy8Y4armV7h_ZiM6h3tvTEdxePFhA_x77-0e0Mc-QOfYgIsnOyNiCRngAJjYdgt5TKe8k9IGfCYMunm9I7qIOmp4tu3JR9wzaqUmCTt-Yro1QfW0F2SWzSv4BGrFjz8KbVHWVaMfq5SHgUyqqH1E8WVBSLEuWtfSaMpSrucuYfXs-Zo_Flxm54GaX7Vp2blqNqp6Avw0zWddQzJTeUmrMko0CCE2zynCveYG81tMUIR73zvk1hl1_f4xLA",
   "files": {
     "AutoCOCVN.exe": {
       "sha256": "90c6d970a0085b53fc37b3d6a4e2b2cf285441e213a08f94302aa90abe5d6d9c",
@@ -54,8 +54,8 @@
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "1eed3d3aaf28d4d0eee37de26d80214aca36408b46b5b92e0d0dbb9faaaea744",
-      "size": 38470,
+      "sha256": "fb0f72c08e53894dcf48ab220c6fd92e6ba90610344c0ad701e7099a01fa99e5",
+      "size": 38573,
       "category": "manifest",
       "restart": false
     },
@@ -7206,8 +7206,8 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "1eed3d3aaf28d4d0eee37de26d80214aca36408b46b5b92e0d0dbb9faaaea744",
-      "size": 38470,
+      "sha256": "fb0f72c08e53894dcf48ab220c6fd92e6ba90610344c0ad701e7099a01fa99e5",
+      "size": 38573,
       "category": "manifest",
       "restart": false
     },
