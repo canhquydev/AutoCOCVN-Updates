@@ -1,6 +1,6 @@
 {
-  "version": "6.0.8",
-  "build_date": "2026-10-26 20:21:11",
+  "version": "6.0.9",
+  "build_date": "2026-10-26 20:45:18",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
@@ -8,8 +8,8 @@
     "vi": "AutoCOCVN v6.0.8",
     "en": "AutoCOCVN v6.0.8"
   },
-  "manifest_sha256": "329bc429befc82ae8a3e691d8e567cf0a9ef77639bd55b5b31c44b93f2d627ad",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiIzMjliYzQyOWJlZmM4MmFlOGEzZTY5MWQ4ZTU2N2NmMGE5ZWY3NzYzOWJkNTViNWIzMWM0NGI5M2YyZDYyN2FkIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.R2POdBw2IUCNjfKjK5yugshCEarJ4yvsNSpKzu-40Lb_Cl01H4QB7oP96ZZ53tpcWi0Ev3ZsA-1bq0O3p6Sul6WJ9mcC7UTD0l1qyGTDhtYrYekIh17EDpQnhpz2BjVD4h612Dx_EYcFpqvhi_pfC6imDCQhEYAI1jxTI6ptqzluCWJ5kShDdNe4Tepph9dnbwjJZNtoxQEueQkcEn62bt_isKvsxsZeu8g-23nvivGMU4Zb9bw99jPZPBYAEd8juZqc1cXrq8NO2-1kFibbCEONLN_x5nd82SP9PWpJnnln1USNkQKwfKRPtnlir1yaBiLRykGqdFJdPahgaR7o0g",
+  "manifest_sha256": "ded5d7045375ffaeebf7a600d353990cea4aad6773182ec734a9d2ac17e4302a",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjkiLCJtYW5pZmVzdF9zaGEyNTYiOiJkZWQ1ZDcwNDUzNzVmZmFlZWJmN2E2MDBkMzUzOTkwY2VhNGFhZDY3NzMxODJlYzczNGE5ZDJhYzE3ZTQzMDJhIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.WM13RZtxuGBm0XkXg38GMNb069bv9DVYV9yi-D7WLBXybSOXXzm3fwtJW_eYSsm-u3UtqrrGzHpyk47pPVe6wvG7uXWT8Aa2mbcgMvoxsE_amQJGUfXKIMQMRlatfLunRt9iBTO6i1cgMUBATxouz_1ItUP-o29Qlfihmjf3VqRgvoSWkzD6277OBaWql-VL560H0K1lj4d8x3vka18-H6iQNefRyBIgpXQE7zWzcrjFAqoB4zMOARPMhb6hwBMg6wb7UyC1qGGowJY5l1-R64YDz8N5cw7QHE8hPxvq-NQBOMUK7PgWVTvG23sZa_c0u0To9GQr_7v3XpjqJxuYgg",
   "files": {
     "AutoCOCVN.exe": {
       "sha256": "0dc03ec08d290829f31d518ecffbbeb411076c4eeb063b16cfd6c944467ef8da",
@@ -54,7 +54,7 @@
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "486b1aa3a1a753e7ce30fe54e51a3594d8fcd8529e79f29bc026c2782b3c4b09",
+      "sha256": "a7b5e8ee0cc132bc0215af18bc9965f4205f38ee1256f8e87cce1c931f401233",
       "size": 38410,
       "category": "manifest",
       "restart": false
@@ -66,8 +66,8 @@
       "restart": true
     },
     "bin/win32_system_x64.dll": {
-      "sha256": "77fc6f442c5b92c61320beaa2fd30149c491164124bc3fd854058b0f38159cbe",
-      "size": 730624,
+      "sha256": "a118d5c03bedd70a9151b99571a7766af2eefe8736e53bcdfb4805283a55b42f",
+      "size": 715776,
       "category": "security",
       "restart": true
     },
@@ -7206,14 +7206,14 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "486b1aa3a1a753e7ce30fe54e51a3594d8fcd8529e79f29bc026c2782b3c4b09",
+      "sha256": "a7b5e8ee0cc132bc0215af18bc9965f4205f38ee1256f8e87cce1c931f401233",
       "size": 38410,
       "category": "manifest",
       "restart": false
     },
     "win32_system_x64.dll": {
-      "sha256": "77fc6f442c5b92c61320beaa2fd30149c491164124bc3fd854058b0f38159cbe",
-      "size": 730624,
+      "sha256": "a118d5c03bedd70a9151b99571a7766af2eefe8736e53bcdfb4805283a55b42f",
+      "size": 715776,
       "category": "security",
       "restart": true
     }
