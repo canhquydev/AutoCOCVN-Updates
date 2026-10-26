@@ -1,6 +1,6 @@
 {
   "version": "6.0.8",
-  "build_date": "2026-10-26 16:08:07",
+  "build_date": "2026-10-26 16:13:09",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
@@ -8,8 +8,8 @@
     "vi": "Phiên bản 6.0.8: Bổ sung nút Tạm dừng/Tiếp tục từng bot và hệ thống Tự động Cập nhật OTA.",
     "en": "Version 6.0.8: Added per-bot Pause/Resume button and OTA Auto-Update system."
   },
-  "manifest_sha256": "dfb02a65b25ff1eecac1b6f84b0b45be927d0a95feda5a5ef337e37d59dac7aa",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiJkZmIwMmE2NWIyNWZmMWVlY2FjMWI2Zjg0YjBiNDViZTkyN2QwYTk1ZmVkYTVhNWVmMzM3ZTM3ZDU5ZGFjN2FhIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.y1vuIqMNkEIEmJQbwn-9hkhPTtIbhaJBa7-bQnY7P_GjuoIwITXSPQ_zw7IKdTQt0-_3lWvyvuzKDfxWgbTt9XYHgxHVFxwvDU44LhAqeC9ZDl3tyvOZLCqf5IAvBkbHfprUsTR_kD9O9jLD2s7rGUxfkqYwnCKR7ms_6CpV1fGoRc_tiY7r8xiCmulbR66OKGUUK95DzaoE7vlru732hUvC-bx7YLRaQ0liC5_eWIskG32lB2B62-8Cuw-9zOUaNI0Gs9XBHmeH5jmCxWsuiOxacNz84ypmJQXDaoPsjFb2lgtQzdsCuCsPmOfrF8oz92xk8FGYtZtMp9w2u8cwHQ",
+  "manifest_sha256": "5a677180b78e6bb91741a123e55575e570cf0b68250d496a1d782c2473edeb07",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiI1YTY3NzE4MGI3OGU2YmI5MTc0MWExMjNlNTU1NzVlNTcwY2YwYjY4MjUwZDQ5NmExZDc4MmMyNDczZWRlYjA3IiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.I58iDUdnOMwsS94VlJ1Ne5dVvFMSyoAMVbUxb_rXmlzVlH5PAkMHxQuGh8zjbFPLfRA7D818_C_Urr9WVZdTnQDQ6z4xU6xESuAewiMSK6zA0b1jb6kRSB6ocgOg-m1LG6LRTp_pbfXJNJQaPqJHay2DrTI970OzQFm_6WW3Y1zTfYqETQbGvVjBqZNKffzQ-JsP-lVZosrqI4KIs3gYYRT3I5RgOIaWEzkzDjCfKzAwKF0Z_hPwyLhBUwND_VFlwC1_niMMpXD0moEtFPoRVdRwQIKG1JKo5r5hMuELuHD3n2ahCv5S63phbvbNfgu-Vx86nEo8lrXQ6BU1G4BXMg",
   "files": {
     "AutoCOCVN.exe": {
       "sha256": "958adf785102ef80ec0b89950126f209cd0fa9f8f0e85aa390785e4490633d20",
@@ -54,7 +54,7 @@
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "ca20e0a205bd23072a8d7ad9515c58ae9be16c3d7d54da0382b6663c988afead",
+      "sha256": "f6adeed6bc281e3da6ecc84764b99d95b7eb88b401312d46f68afc39dae07654",
       "size": 38592,
       "category": "manifest",
       "restart": false
@@ -7206,7 +7206,7 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "ca20e0a205bd23072a8d7ad9515c58ae9be16c3d7d54da0382b6663c988afead",
+      "sha256": "f6adeed6bc281e3da6ecc84764b99d95b7eb88b401312d46f68afc39dae07654",
       "size": 38592,
       "category": "manifest",
       "restart": false
