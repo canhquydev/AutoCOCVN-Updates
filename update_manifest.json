@@ -1,6 +1,6 @@
 {
   "version": "6.0.9",
-  "build_date": "2026-10-26 20:45:18",
+  "build_date": "2026-10-26 20:50:47",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
@@ -8,11 +8,11 @@
     "vi": "AutoCOCVN v6.0.8",
     "en": "AutoCOCVN v6.0.8"
   },
-  "manifest_sha256": "ded5d7045375ffaeebf7a600d353990cea4aad6773182ec734a9d2ac17e4302a",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjkiLCJtYW5pZmVzdF9zaGEyNTYiOiJkZWQ1ZDcwNDUzNzVmZmFlZWJmN2E2MDBkMzUzOTkwY2VhNGFhZDY3NzMxODJlYzczNGE5ZDJhYzE3ZTQzMDJhIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.WM13RZtxuGBm0XkXg38GMNb069bv9DVYV9yi-D7WLBXybSOXXzm3fwtJW_eYSsm-u3UtqrrGzHpyk47pPVe6wvG7uXWT8Aa2mbcgMvoxsE_amQJGUfXKIMQMRlatfLunRt9iBTO6i1cgMUBATxouz_1ItUP-o29Qlfihmjf3VqRgvoSWkzD6277OBaWql-VL560H0K1lj4d8x3vka18-H6iQNefRyBIgpXQE7zWzcrjFAqoB4zMOARPMhb6hwBMg6wb7UyC1qGGowJY5l1-R64YDz8N5cw7QHE8hPxvq-NQBOMUK7PgWVTvG23sZa_c0u0To9GQr_7v3XpjqJxuYgg",
+  "manifest_sha256": "f3be5f4ca53a7b1214c226e1423cc6bf1a79cef38d296ffd5b08fda452e4e84a",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjkiLCJtYW5pZmVzdF9zaGEyNTYiOiJmM2JlNWY0Y2E1M2E3YjEyMTRjMjI2ZTE0MjNjYzZiZjFhNzljZWYzOGQyOTZmZmQ1YjA4ZmRhNDUyZTRlODRhIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.pWeBVItZtYTY1BmG3SQraTubTfWogkKxZacmYhtZh6z_EQlEGQIQ_FZQ_BLpW2xplWpxrjiwLEq1l6bwujhnXL8nuCgx7bAZOI57gXap0MM5l5vokMK1Ph1t13GrvsM0kpCOLxM3M0_viq2vdhOzIIA9G1ddCowMt74LH1affVRUrjZGIXr5Fc3tGqOR5Hg573CuMRyTfd9QGGFqls-F5tuWd4MyTgBMlNYddbX7sWfDfo9ZirMg_bREcXxPlJXMskDU1DorvBWRrldlkoL77uScSqAN3nTU0Xwf1jtLPD3gjJQgRWpZVXXz7IXw8e2-Wo23VkaSjAszjSpLaA1moQ",
   "files": {
     "AutoCOCVN.exe": {
-      "sha256": "0dc03ec08d290829f31d518ecffbbeb411076c4eeb063b16cfd6c944467ef8da",
+      "sha256": "544ed98c0fc60ee3a986c1e62433f4402e9a47b63be585e28b45ff75eda85e8d",
       "size": 306176,
       "category": "core",
       "restart": true
@@ -36,8 +36,8 @@
       "restart": true
     },
     "bin/engine.dat": {
-      "sha256": "10d84de008cb454cf9b8e8ae611c3fbb80d31d7c8873ab36ca73d8fadf058f7a",
-      "size": 2692256,
+      "sha256": "f8cc84c4cbeeb11efbeed262f1242f9d2d051d254ed8b4a59c3955e370292674",
+      "size": 2696352,
       "category": "core",
       "restart": true
     },
@@ -54,14 +54,14 @@
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "a7b5e8ee0cc132bc0215af18bc9965f4205f38ee1256f8e87cce1c931f401233",
-      "size": 38410,
+      "sha256": "d6c7dce6a6d3280fcb34d20a274d46a6372ce8ceb2b3a29e79cd6f5515d6e0bd",
+      "size": 38593,
       "category": "manifest",
       "restart": false
     },
     "bin/web_vault.bin": {
-      "sha256": "9fa54ef55b3ac5dcfaca3ede4a0013556f9729c1db835e99960dd5ce72a244ce",
-      "size": 994265,
+      "sha256": "db72a60b25aec767b245b4afacbbbc7d022421a5742aed69352826130e4d3cb6",
+      "size": 998112,
       "category": "ui",
       "restart": true
     },
@@ -7206,8 +7206,8 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "a7b5e8ee0cc132bc0215af18bc9965f4205f38ee1256f8e87cce1c931f401233",
-      "size": 38410,
+      "sha256": "d6c7dce6a6d3280fcb34d20a274d46a6372ce8ceb2b3a29e79cd6f5515d6e0bd",
+      "size": 38593,
       "category": "manifest",
       "restart": false
     },
