@@ -1,6 +1,6 @@
 {
   "version": "6.0.8",
-  "build_date": "2026-10-26 16:18:01",
+  "build_date": "2026-10-26 16:26:18",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
@@ -8,11 +8,11 @@
     "vi": "Phiên bản 6.0.8: Bổ sung nút Tạm dừng/Tiếp tục từng bot và hệ thống Tự động Cập nhật OTA.",
     "en": "Version 6.0.8: Added per-bot Pause/Resume button and OTA Auto-Update system."
   },
-  "manifest_sha256": "5a677180b78e6bb91741a123e55575e570cf0b68250d496a1d782c2473edeb07",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiI1YTY3NzE4MGI3OGU2YmI5MTc0MWExMjNlNTU1NzVlNTcwY2YwYjY4MjUwZDQ5NmExZDc4MmMyNDczZWRlYjA3IiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.I58iDUdnOMwsS94VlJ1Ne5dVvFMSyoAMVbUxb_rXmlzVlH5PAkMHxQuGh8zjbFPLfRA7D818_C_Urr9WVZdTnQDQ6z4xU6xESuAewiMSK6zA0b1jb6kRSB6ocgOg-m1LG6LRTp_pbfXJNJQaPqJHay2DrTI970OzQFm_6WW3Y1zTfYqETQbGvVjBqZNKffzQ-JsP-lVZosrqI4KIs3gYYRT3I5RgOIaWEzkzDjCfKzAwKF0Z_hPwyLhBUwND_VFlwC1_niMMpXD0moEtFPoRVdRwQIKG1JKo5r5hMuELuHD3n2ahCv5S63phbvbNfgu-Vx86nEo8lrXQ6BU1G4BXMg",
+  "manifest_sha256": "8e6515a13fb0cc34c65e4968ecd7a9d604c5d454432be752a0d72c6f283082af",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiI4ZTY1MTVhMTNmYjBjYzM0YzY1ZTQ5NjhlY2Q3YTlkNjA0YzVkNDU0NDMyYmU3NTJhMGQ3MmM2ZjI4MzA4MmFmIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.fy3DGgSN5-Xk_2IPdmd7lJz-p0trgxNra0WFoFav8lRSf8-kUVVBhGTPCfBykb6be2dUJ9zR-iFh1dqxYKeRlF5UlAfit0jTz81D23c9Cntg3uJeH2V1dFVp-XFr8GrKwaPbW6NAF2jz7y7ldP484ZBWVp8xbn4bX0JD48zU5YcR-WRexdB6wFh5I5F1FmD2UcVwq1Qp9ocP8B6cUCo8x_k7Bk4y1t9pmjgJ1AymeWJc-6ewQLpAnQThlKYK68ayD2xQ0v1CXF_xxmRqOmog1kOeuRJ0JVRFrbazA2dWQafRq7ostbrn6rtZu20dbU6UnbJ6bSHwLBxhY-OjOZl2iA",
   "files": {
     "AutoCOCVN.exe": {
-      "sha256": "958adf785102ef80ec0b89950126f209cd0fa9f8f0e85aa390785e4490633d20",
+      "sha256": "8838ad9f9c64f61761b683d3e41bd485c2b6c00943296d198e393e719afc58fe",
       "size": 306176,
       "category": "core",
       "restart": true
@@ -24,50 +24,50 @@
       "restart": true
     },
     "bin/anti_tampering.pyd": {
-      "sha256": "e23a49f56aa57ce94a8136b35d6f75d4e1481006312f02159f136eb63adfdd82",
-      "size": 475648,
+      "sha256": "1ddb8e30d263711569d7ddcc5d0e1b83f8db2bb89c6776d698547a292418b86c",
+      "size": 475136,
       "category": "security",
       "restart": true
     },
     "bin/auth_sys.pyd": {
-      "sha256": "3d101cc1f4026e41c6987cd6502c9661b8e4b15088b22c8fe5d86eb1e9b0fd79",
+      "sha256": "1510952af80e35a1803852f678005e5c3d00e7f04e1a8290b661fe3f84a6c3a1",
       "size": 732160,
       "category": "security",
       "restart": true
     },
     "bin/engine.dat": {
-      "sha256": "913e9e00f7a989cac3a75768762b2e7d206b5052037ed41ddf1585f5730f9f55",
-      "size": 2688160,
+      "sha256": "741591f86c3e6ef4a68edfb55ea63c7c65f415437ba4f70b9735241202af501c",
+      "size": 2692256,
       "category": "core",
       "restart": true
     },
     "bin/src.pyd": {
-      "sha256": "6ab9161c6c5ed2be9f73e0944bdf31da631d8fe95c3c13e3836e99b877afd659",
-      "size": 8552448,
+      "sha256": "2ca1b5cefb7f6b61f734f73b13225766653421ee11ff334fae168d5afc05f0c1",
+      "size": 8555520,
       "category": "python",
       "restart": true
     },
     "bin/sys_boot.pyd": {
-      "sha256": "4478de6f303d993fb6088a2abe86cefcf3d128bf89af651564fa87b48fe9944a",
+      "sha256": "7724c258123c5fcd8dd73ca6cf0313d776a2225d8cfd95539b1248e8f6ef040c",
       "size": 513024,
       "category": "python",
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "f6adeed6bc281e3da6ecc84764b99d95b7eb88b401312d46f68afc39dae07654",
+      "sha256": "3db13641138d9da7c06ecac5dc4761d503beaa185377b330fb50adc0f13a4ed5",
       "size": 38592,
       "category": "manifest",
       "restart": false
     },
     "bin/web_vault.bin": {
-      "sha256": "0f5143859a4c2086da0e4395268b73083f86a16212152b4e2f4ad479eb1651ad",
-      "size": 994948,
+      "sha256": "19a78f9de1bd14b59402730c4cdd059c13bc756e944c387fa106cfafe0ea7778",
+      "size": 998857,
       "category": "ui",
       "restart": true
     },
     "bin/win32_system_x64.dll": {
-      "sha256": "a6777c66fd57cfdeac8235ad6778b0930bf35e051bec85428dc5f270cc657818",
-      "size": 773120,
+      "sha256": "dc81a01a3e22d9a59c92d5f513a88ad564e1bc8888dd03062b312e71782eeef8",
+      "size": 722432,
       "category": "security",
       "restart": true
     },
@@ -7206,14 +7206,14 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "f6adeed6bc281e3da6ecc84764b99d95b7eb88b401312d46f68afc39dae07654",
+      "sha256": "3db13641138d9da7c06ecac5dc4761d503beaa185377b330fb50adc0f13a4ed5",
       "size": 38592,
       "category": "manifest",
       "restart": false
     },
     "win32_system_x64.dll": {
-      "sha256": "a6777c66fd57cfdeac8235ad6778b0930bf35e051bec85428dc5f270cc657818",
-      "size": 773120,
+      "sha256": "dc81a01a3e22d9a59c92d5f513a88ad564e1bc8888dd03062b312e71782eeef8",
+      "size": 722432,
       "category": "security",
       "restart": true
     }
