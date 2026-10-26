@@ -1,6 +1,6 @@
 {
   "version": "6.0.9",
-  "build_date": "2026-10-26 20:50:47",
+  "build_date": "2026-10-26 21:14:37",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
@@ -8,11 +8,11 @@
     "vi": "AutoCOCVN v6.0.8",
     "en": "AutoCOCVN v6.0.8"
   },
-  "manifest_sha256": "f3be5f4ca53a7b1214c226e1423cc6bf1a79cef38d296ffd5b08fda452e4e84a",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjkiLCJtYW5pZmVzdF9zaGEyNTYiOiJmM2JlNWY0Y2E1M2E3YjEyMTRjMjI2ZTE0MjNjYzZiZjFhNzljZWYzOGQyOTZmZmQ1YjA4ZmRhNDUyZTRlODRhIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.pWeBVItZtYTY1BmG3SQraTubTfWogkKxZacmYhtZh6z_EQlEGQIQ_FZQ_BLpW2xplWpxrjiwLEq1l6bwujhnXL8nuCgx7bAZOI57gXap0MM5l5vokMK1Ph1t13GrvsM0kpCOLxM3M0_viq2vdhOzIIA9G1ddCowMt74LH1affVRUrjZGIXr5Fc3tGqOR5Hg573CuMRyTfd9QGGFqls-F5tuWd4MyTgBMlNYddbX7sWfDfo9ZirMg_bREcXxPlJXMskDU1DorvBWRrldlkoL77uScSqAN3nTU0Xwf1jtLPD3gjJQgRWpZVXXz7IXw8e2-Wo23VkaSjAszjSpLaA1moQ",
+  "manifest_sha256": "6719be18199407c7e986a996da2820149025f6ace4edf469bff8172d6c6c2ed4",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjkiLCJtYW5pZmVzdF9zaGEyNTYiOiI2NzE5YmUxODE5OTQwN2M3ZTk4NmE5OTZkYTI4MjAxNDkwMjVmNmFjZTRlZGY0NjliZmY4MTcyZDZjNmMyZWQ0IiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.drEx0ew0Cw5fVu-ZtzkiFupMwyCwxltBKaOjh8SfjicVqIY6JbyT4QWuodGWGZMIpPBxq7tfSLelE42S2Ob04Dne4A1nnuf_lGaXNinBnMqFsbHgncXgW-UOO6teME54UQfT36pNHnump20PJnZ_GLPgkAA2Dk60dwlgxvAesn7AT3qf9teF-sjPOIBYJtbwivqeoTaZGv44d47Ef6Pqa1Ax_T8xt6iusu6vzB0V0yAWgi_LNeqwnhgaVrgoZlJMt-Lw2PVbO_Ql6YoRulGJL-CsBbXHZDTT7cGLt2CjZzpDtLg13xHL6BGMXNgtnIHXJKqMLp4Os2UIbAPRIdAskA",
   "files": {
     "AutoCOCVN.exe": {
-      "sha256": "544ed98c0fc60ee3a986c1e62433f4402e9a47b63be585e28b45ff75eda85e8d",
+      "sha256": "6eec37c3c4abda1dc17fd29d5bcf961a33bd04d643d2534c00ece4abf9861762",
       "size": 306176,
       "category": "core",
       "restart": true
@@ -24,19 +24,19 @@
       "restart": true
     },
     "bin/anti_tampering.pyd": {
-      "sha256": "31d2a8387e9112e807eb8ff8750c8a123b4bd5c33387a90f4ec0d9108a2f597f",
-      "size": 476160,
+      "sha256": "ab2315dc8fdcd244dfce74731e267f9cc7c90fd64eb0633a65af9438b014ddfb",
+      "size": 481280,
       "category": "security",
       "restart": true
     },
     "bin/auth_sys.pyd": {
-      "sha256": "5fa37e813cb38c719d39bd860bb67685bf5aef34c8af5a4f4e257dfd1a528a10",
-      "size": 732160,
+      "sha256": "f41008908f1aecdaf4ead437b654e5dc00d429c82d37ed13c352e90c437a1251",
+      "size": 731648,
       "category": "security",
       "restart": true
     },
     "bin/engine.dat": {
-      "sha256": "f8cc84c4cbeeb11efbeed262f1242f9d2d051d254ed8b4a59c3955e370292674",
+      "sha256": "7bed95c373cd263895cfa90e7a8ffcd091dde0a8416476713a0cc1ccbab07a66",
       "size": 2696352,
       "category": "core",
       "restart": true
@@ -54,20 +54,20 @@
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "d6c7dce6a6d3280fcb34d20a274d46a6372ce8ceb2b3a29e79cd6f5515d6e0bd",
+      "sha256": "4b740867ded14994466d284bd752e3ab1ea08871cf9b8d91c6eb05f131e08d22",
       "size": 38593,
       "category": "manifest",
       "restart": false
     },
     "bin/web_vault.bin": {
-      "sha256": "db72a60b25aec767b245b4afacbbbc7d022421a5742aed69352826130e4d3cb6",
-      "size": 998112,
+      "sha256": "738ebcf185f05250e5e9318600f0016b5a06ae44889a4448aef08508f8b96fa1",
+      "size": 996288,
       "category": "ui",
       "restart": true
     },
     "bin/win32_system_x64.dll": {
-      "sha256": "a118d5c03bedd70a9151b99571a7766af2eefe8736e53bcdfb4805283a55b42f",
-      "size": 715776,
+      "sha256": "9a6f52272cba7bd1f83d93afe0f26efdc9e206a646d5a4ca85fa1391e2de3686",
+      "size": 683520,
       "category": "security",
       "restart": true
     },
@@ -7206,14 +7206,14 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "d6c7dce6a6d3280fcb34d20a274d46a6372ce8ceb2b3a29e79cd6f5515d6e0bd",
+      "sha256": "4b740867ded14994466d284bd752e3ab1ea08871cf9b8d91c6eb05f131e08d22",
       "size": 38593,
       "category": "manifest",
       "restart": false
     },
     "win32_system_x64.dll": {
-      "sha256": "a118d5c03bedd70a9151b99571a7766af2eefe8736e53bcdfb4805283a55b42f",
-      "size": 715776,
+      "sha256": "9a6f52272cba7bd1f83d93afe0f26efdc9e206a646d5a4ca85fa1391e2de3686",
+      "size": 683520,
       "category": "security",
       "restart": true
     }
