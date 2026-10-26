@@ -1,18 +1,18 @@
 {
   "version": "6.0.8",
-  "build_date": "2026-10-26 16:35:02",
+  "build_date": "2026-10-26 16:52:18",
   "force_update": false,
   "repo": "canhquydev/AutoCOCVN-Updates",
   "branch": "main",
   "changelog": {
-    "vi": "Phiên bản 6.0.8: Bổ sung nút Tạm dừng/Tiếp tục từng bot và hệ thống Tự động Cập nhật OTA.",
-    "en": "Version 6.0.8: Added per-bot Pause/Resume button and OTA Auto-Update system."
+    "vi": "Phiên bản 6.0.8: Bổ sung nút Tạm dừng/Tiếp tục từng bot•Tích hợp hệ thống Tự động Cập nhật từng phần (OTA Delta)•Tối ưu hóa giao diện và tốc độ khởi động.",
+    "en": "Version 6.0.8: Added per-bot Pause/Resume button•Integrated Zero-Click Delta Auto-Update (OTA) system•Optimized UI responsiveness and startup speed."
   },
-  "manifest_sha256": "8433e17d9e410e00259b2e5bf68f8600341b725489ea9c5b0ee942e363567647",
-  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiI4NDMzZTE3ZDllNDEwZTAwMjU5YjJlNWJmNjhmODYwMDM0MWI3MjU0ODllYTljNWIwZWU5NDJlMzYzNTY3NjQ3IiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.M0wdfx80rK1PQmTC4py47SPIP0yrdfZJHPvkbjTKYYlF_NP_N8bztFlpinORzg35IMW4AI7CvmXnbD2enaKWgZnuwZ1BTy8Y4armV7h_ZiM6h3tvTEdxePFhA_x77-0e0Mc-QOfYgIsnOyNiCRngAJjYdgt5TKe8k9IGfCYMunm9I7qIOmp4tu3JR9wzaqUmCTt-Yro1QfW0F2SWzSv4BGrFjz8KbVHWVaMfq5SHgUyqqH1E8WVBSLEuWtfSaMpSrucuYfXs-Zo_Flxm54GaX7Vp2blqNqp6Avw0zWddQzJTeUmrMko0CCE2zynCveYG81tMUIR73zvk1hl1_f4xLA",
+  "manifest_sha256": "1a5cabab9c5b8b44c5b6083ae6925cd54bc5091d83d93f47f77235f5f1fdc09f",
+  "security_token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoiNi4wLjgiLCJtYW5pZmVzdF9zaGEyNTYiOiIxYTVjYWJhYjljNWI4YjQ0YzViNjA4M2FlNjkyNWNkNTRiYzUwOTFkODNkOTNmNDdmNzcyMzVmNWYxZmRjMDlmIiwiZmlsZV9jb3VudCI6MTIwMSwiZm9yY2VfdXBkYXRlIjpmYWxzZX0.4PI4EQ5EO4q1KM0TbJucjYbNt3eqlUe6z9gnaaiSeDgbADy2-Y-DRZKhgLNwb7jx_7SAd5KhNO1eE0sF7PfsVK0MIk8t13pGyIGW694gawJZ6MizDn5c23ogLpyCS9cXEfuxrUpdPckhH5kPM2aWfj-TxKSL3h4JMBU4pbm-cpq0bXNcym5FBf3mUgOKLdzjdtUiuXFRDCqO9MLQ6rRxUjebpiMNoK_WhMNZvEAZwAhzsjM_YSyhnF19jYwT_nbGEwgCRGUxPqzoh0t1H1deYqengpndoSQUFzRXMimcBObSGF-7hE_a3R6kWAeK_UF7futcUde7rI6qQ8qI9hpTUg",
   "files": {
     "AutoCOCVN.exe": {
-      "sha256": "90c6d970a0085b53fc37b3d6a4e2b2cf285441e213a08f94302aa90abe5d6d9c",
+      "sha256": "a885e02a7e3ca14a0d135494a7cdd243b90ca862702631e7125a09743867d83a",
       "size": 306176,
       "category": "core",
       "restart": true
@@ -36,8 +36,8 @@
       "restart": true
     },
     "bin/engine.dat": {
-      "sha256": "e8e08fc42df06f1829693d5cf78e679d4c0c2c0a22d009fa708d3cfc9f5a5414",
-      "size": 2688160,
+      "sha256": "d64df9a0d6d5c5a43399a20f3070e0512d7a33e5e68064c4ce959f03a12bbafc",
+      "size": 2696352,
       "category": "core",
       "restart": true
     },
@@ -54,20 +54,20 @@
       "restart": true
     },
     "bin/version.json": {
-      "sha256": "fb0f72c08e53894dcf48ab220c6fd92e6ba90610344c0ad701e7099a01fa99e5",
-      "size": 38573,
+      "sha256": "a73f7a2de6daa04a5463d2ab310913b5ec41ce513a9b1e10015ab4ef66bcd997",
+      "size": 38742,
       "category": "manifest",
       "restart": false
     },
     "bin/web_vault.bin": {
-      "sha256": "a0555ff3bc9c5dcd7b718602d2bbd8ca75078de161bfbc9792e8572bd2c2f351",
-      "size": 996360,
+      "sha256": "4e813db342afc753ad8cf66923924e9d4166b9ef9c230a690b977b4dc14f8591",
+      "size": 1002712,
       "category": "ui",
       "restart": true
     },
     "bin/win32_system_x64.dll": {
-      "sha256": "dc81a01a3e22d9a59c92d5f513a88ad564e1bc8888dd03062b312e71782eeef8",
-      "size": 722432,
+      "sha256": "9d56383b607d5bd5169ee59e3b87b74decfac90a88add43a77ab9d4ab5a19135",
+      "size": 685056,
       "category": "security",
       "restart": true
     },
@@ -7206,14 +7206,14 @@
       "restart": false
     },
     "version.json": {
-      "sha256": "fb0f72c08e53894dcf48ab220c6fd92e6ba90610344c0ad701e7099a01fa99e5",
-      "size": 38573,
+      "sha256": "a73f7a2de6daa04a5463d2ab310913b5ec41ce513a9b1e10015ab4ef66bcd997",
+      "size": 38742,
       "category": "manifest",
       "restart": false
     },
     "win32_system_x64.dll": {
-      "sha256": "dc81a01a3e22d9a59c92d5f513a88ad564e1bc8888dd03062b312e71782eeef8",
-      "size": 722432,
+      "sha256": "9d56383b607d5bd5169ee59e3b87b74decfac90a88add43a77ab9d4ab5a19135",
+      "size": 685056,
       "category": "security",
       "restart": true
     }
