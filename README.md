@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.9`
-- **Updated At**: `2026-10-26 21:21:27`
+- **Latest Version**: `v6.0.10`
+- **Updated At**: `2026-11-02 10:48:12`
 
 ### Nội dung cập nhật (VI)
-AutoCOCVN v6.0.8
+Bản cập nhật thử nghiệm thêm file mới
 
 ### Update Notes (EN)
-AutoCOCVN v6.0.8
+Test update with new files
