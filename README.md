@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.10`
-- **Updated At**: `2026-11-02 11:27:01`
+- **Latest Version**: `v6.0.11`
+- **Updated At**: `2026-11-02 19:57:46`
 
 ### Nội dung cập nhật (VI)
-Nâng cấp hiển thị cảnh báo cập nhật tức thì (dấu ! trên phiên bản & thông báo Console Log) và giới hạn tối đa 2 luồng kiểm tra (MaxDegreeOfParallelism = 2) chống giật lag.
+Sửa lỗi xác thực kích hoạt bản quyền trên các dòng mainboard dùng BIOS UUID mặc định.
 
 ### Update Notes (EN)
-Instant update alert (! badge & Console Log) and cap delta file check to 2 threads (MaxDegreeOfParallelism = 2).
+Fixed license activation verification on motherboards with default BIOS UUIDs.
