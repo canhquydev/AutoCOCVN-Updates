@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.15`
-- **Updated At**: `2026-11-04 08:35:16`
+- **Latest Version**: `v6.0.16`
+- **Updated At**: `2026-11-04 08:54:23`
 
 ### Nội dung cập nhật (VI)
-Bản cập nhật v6.0.15: Khắc phục triệt để cache GitHub CDN 5 phút & lỗi #U-205, bổ sung nút kiểm tra cập nhật trực tiếp tại nhãn phiên bản (cooldown 5 phút).
+Bản cập nhật v6.0.16: Rút gọn tooltip kiểm tra cập nhật & hỗ trợ đủ 4 ngôn ngữ cho hộp thoại đóng ứng dụng.
 
 ### Update Notes (EN)
-Update v6.0.15: Bypass 5-minute GitHub CDN cache & fix #U-205, add clickable version badge to check for updates (5-minute cooldown).
+Update v6.0.16: Concise update check tooltip & full 4-language support for application close dialog.
