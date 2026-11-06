@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.18`
-- **Updated At**: `2026-11-06 22:21:16`
+- **Latest Version**: `v6.0.19`
+- **Updated At**: `2026-11-07 04:03:16`
 
 ### Nội dung cập nhật (VI)
-Tích hợp bộ tự động cài đặt .NET 9.0 Desktop Runtime (x64) Dark Mode & tự động sửa lỗi mở lại tool.
+Nâng cấp giao diện Studio 2 Tab chính, sửa hàng loạt cấu hình trên 1 Form; Tối ưu hóa Cold-start 0ms & DOM Reconciliation siêu mượt 24/7; Khắc phục triệt để đồng bộ tài khoản Supercell ID theo profile giả lập riêng; Cập nhật lõi bảo mật C++ OLLVM & RS256 mới nhất.
 
 ### Update Notes (EN)
-Integrated visual .NET 9.0 Desktop Runtime auto-installer with Dark Mode UI & auto-relaunch.
+Upgraded 2-Tab Studio UI, single-form batch config editing; 0ms cold-start & in-place DOM reconciliation for ultra-smooth 24/7 performance; Fixed Supercell ID profile synchronization per emulator; Updated latest C++ OLLVM & RS256 security core.
