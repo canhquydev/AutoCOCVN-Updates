@@ -1,0 +1,12 @@
+{
+  "EVENT_TROOP_SELECTIONS": [
+    {
+      "troop": "boxer_giant.png",
+      "count": 1
+    },
+    {
+      "troop": "bomber.png",
+      "count": 1
+    }
+  ]
+}
