@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.21`
-- **Updated At**: `2026-11-08 17:16:45`
+- **Latest Version**: `v6.0.22`
+- **Updated At**: `2026-11-08 23:23:38`
 
 ### Nội dung cập nhật (VI)
-Đồng bộ logic xả lính và vét quân Clan Capital chuẩn AutoCOCv, tối ưu hóa dồn quân và nhận diện bãi đáp.
+Tối ưu hóa giao diện responsive khi thu nhỏ cửa sổ, khôi phục hiển thị nút Tạm dừng, loại bỏ ký tự BOM và khắc phục lỗi khởi động bot.
 
 ### Update Notes (EN)
-Synchronized Clan Capital troop drop & cleanup logic with AutoCOCv, optimized cascade deploy and landing zone detection.
+Optimized responsive UI for compact windows, restored Pause button visibility, stripped UTF-8 BOM bytes and stabilized bot startup.
