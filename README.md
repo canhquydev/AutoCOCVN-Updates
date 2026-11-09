@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.23`
-- **Updated At**: `2026-11-09 20:06:51`
+- **Latest Version**: `v6.0.24`
+- **Updated At**: `2026-11-09 23:08:12`
 
 ### Nội dung cập nhật (VI)
-Nâng cấp tự động đọc tên giả lập (MuMu 6/12/Lite/Global & LDPlayer 9), rút gọn hiển thị cổng (:5555), cập nhật luồng Thợ Xây Hỗ Trợ mới (buid.png) và tối ưu tốc độ trận đấu.
+Khôi phục chuẩn OCR đọc tài nguyên (ngưỡng 0.85); tự động nâng tường đủ 2 lượt Vàng và Dầu; cách ly cấu hình độc lập cho từng giả lập.
 
 ### Update Notes (EN)
-Upgraded automatic emulator name resolution (MuMu 6/12/Lite/Global & LDPlayer 9), compact port display (:5555), new Builder/Lab Helper flow (buid.png), and battle loop optimization.
+Restore OCR resource threshold 0.85; support wall upgrade for both Gold and Elixir; isolate per-device mode configuration.
