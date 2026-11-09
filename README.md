@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.22`
-- **Updated At**: `2026-11-08 23:23:38`
+- **Latest Version**: `v6.0.23`
+- **Updated At**: `2026-11-09 20:06:51`
 
 ### Nội dung cập nhật (VI)
-Tối ưu hóa giao diện responsive khi thu nhỏ cửa sổ, khôi phục hiển thị nút Tạm dừng, loại bỏ ký tự BOM và khắc phục lỗi khởi động bot.
+Nâng cấp tự động đọc tên giả lập (MuMu 6/12/Lite/Global & LDPlayer 9), rút gọn hiển thị cổng (:5555), cập nhật luồng Thợ Xây Hỗ Trợ mới (buid.png) và tối ưu tốc độ trận đấu.
 
 ### Update Notes (EN)
-Optimized responsive UI for compact windows, restored Pause button visibility, stripped UTF-8 BOM bytes and stabilized bot startup.
+Upgraded automatic emulator name resolution (MuMu 6/12/Lite/Global & LDPlayer 9), compact port display (:5555), new Builder/Lab Helper flow (buid.png), and battle loop optimization.
