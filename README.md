@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.28`
-- **Updated At**: `2026-11-10 14:26:53`
+- **Latest Version**: `v6.0.29`
+- **Updated At**: `2026-11-10 14:39:11`
 
 ### Nội dung cập nhật (VI)
-Khắc phục lỗi tự động nhân 1000 cho tài nguyên nhà nhỏ (TH2-TH7) khi tìm trận, bảo toàn chính xác giá trị cài đặt tối thiểu.
+Nâng cấp cơ chế phân giải OTA qua GitHub Releases API: triệt tiêu hoàn toàn độ trễ cache 5 phút của Fastly CDN, cập nhật tức thì 0s cho máy khách.
 
 ### Update Notes (EN)
-Fix auto 1000x scaling for small town hall loot thresholds, preserve exact minimum resource configuration.
+Upgrade OTA resolver via GitHub Releases API: eliminate 5-minute CDN cache latency, instant 0s updates for clients.
