@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.30`
-- **Updated At**: `2026-11-10 23:35:56`
+- **Latest Version**: `v6.0.31`
+- **Updated At**: `2026-11-11 00:35:43`
 
 ### Nội dung cập nhật (VI)
-Tối ưu hóa giao diện Bản Quyền, bổ sung nút Lưu tên và tự động lưu tên khi sửa (Enter/blur/debounce), sửa đường dẫn định danh telemetry và bảo toàn tên người dùng qua các bản cập nhật.
+Tối ưu giao diện Bản Quyền & lưu tên Bảng Xếp Hạng tức thì, khắc phục lỗi giật cửa sổ và lỗi hiển thị khi thu nhỏ màn hình.
 
 ### Update Notes (EN)
-License UI optimization, added nickname Save button and auto-save on edit (Enter/blur/debounce), fixed telemetry bin directory resolution and preserved user nickname across updates.
+Optimize License Modal & instant Leaderboard nickname saving, fix modal jitter and responsive layout on small screens.
