@@ -1,10 +1,16 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.32`
-- **Updated At**: `2026-11-11 12:33:27`
+- **Latest Version**: `v6.0.33`
+- **Updated At**: `2026-11-12 11:53:42`
 
 ### Nội dung cập nhật (VI)
-Cập nhật v6.0.32: Đồng bộ chuẩn 100% logic nâng cấp Lính/Thần chú (Lab) và Công trình khi có nhiều thợ rảnh; kiểm tra thợ xây rảnh >= 1 và xử lý Goblin Builder trước khi nâng tường; nâng cấp hệ thống đồng bộ bảng xếp hạng Telemetry bảo mật Challenge-Response.
+Khôi phục cấu hình cũ & Tối ưu quản lý danh sách tài khoản theo từng cổng giả lập:
+1. Thêm tính năng Khôi Phục & Chuẩn Hóa Cấu Hình Bản Cũ: Quét toàn bộ tệp accounts, ánh xạ danh sách acc và ảnh mẫu theo từng cổng giả lập.
+2. Nâng cấp Tab Đổi Tài Khoản: Hiển thị toàn bộ các cổng đã lưu dữ liệu vào dropdown Giả Lập (kể cả cổng offline).
+3. Tối ưu nhãn giả lập dạng <Tên Rút Gọn>: <Cổng> (VD: LDPlayer-1: 5557), trực quan và dễ nhận biết.
 
 ### Update Notes (EN)
-Update v6.0.32: Synchronized Laboratory troop/spell and multi-builder upgrade logic; enforced available builder >= 1 and Goblin Builder check before wall upgrades; upgraded secure Challenge-Response Telemetry leaderboard sync.
+Legacy config restoration & per-emulator port account management optimization:
+1. Added Legacy Config Restore & Normalize: Full scan of legacy account files, mapping account lists and templates to each emulator port.
+2. Switch Accounts Tab Enhancement: Display all saved emulator ports in the Device dropdown (including offline ports).
+3. Optimized emulator label format: <Short Name>: <Port> (e.g. LDPlayer-1: 5557), concise and intuitive.
