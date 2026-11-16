@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.35`
-- **Updated At**: `2026-11-14 15:07:40`
+- **Latest Version**: `v6.0.36`
+- **Updated At**: `2026-11-16 23:08:56`
 
 ### Nội dung cập nhật (VI)
-Cập nhật v6.0.35: Sửa lỗi đầu hàng thông minh (thời gian, % phá hủy, tài nguyên) & lỗi thoát bot; Khôi phục đầy đủ Đấu Rank; Sửa đổi tài khoản theo số phút; Fix trùng tên giả lập LAN & danh sách tài khoản.
+Sửa lỗi đọc tài nguyên tìm trận x2 (chữ số vàng) & thống kê Bonus sau trận; tối ưu độ mượt đa giả lập 20 tab, sửa delay thêm tài khoản, cô lập hoàn toàn chế độ Chỉ Cho Lính và khắc phục lỗi u2.
 
 ### Update Notes (EN)
-Update v6.0.35: Fix smart surrender (time, destruction %, loot) & bot startup crash; Restore full Ranked Battle parity; Fix minute-based account switch; Fix LAN emulator names & account list.
+Fix 2x event loot OCR (yellow digits) & post-battle Bonus stats; optimize 20-tab telemetry smoothness, speed up account crop saving, isolate donate_only mode, and fix u2 inflight recovery.
