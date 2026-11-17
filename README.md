@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.38`
-- **Updated At**: `2026-11-17 10:25:40`
+- **Latest Version**: `v6.0.39`
+- **Updated At**: `2026-11-17 10:46:41`
 
 ### Nội dung cập nhật (VI)
-Sửa lỗi sập tab giả lập khi bấm Quét (lọc cổng lẻ ADB và đồng bộ tra cứu tên giả lập)
+Tối ưu hóa cơ chế zoom_out (u2) cho đa giả lập: tái sử dụng worker thread chống kẹt khi timeout, tự phục hồi uiautomator và thử lại khi lỗi kết nối.
 
 ### Update Notes (EN)
-Fix emulator tab crash on Scan (probe odd ADB ports only and serialize emulator CLI/netstat lookups)
+Optimized u2 zoom_out for multi-emulator stability: reused worker thread to prevent hang lockouts, auto-reset uiautomator and retry on transient RPC errors.
