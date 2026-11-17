@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.37`
-- **Updated At**: `2026-11-16 23:24:24`
+- **Latest Version**: `v6.0.38`
+- **Updated At**: `2026-11-17 10:25:40`
 
 ### Nội dung cập nhật (VI)
-Sửa lỗi báo độ phân giải 900x1600 không được hỗ trợ (#E-302) trên giả lập MuMu.
+Sửa lỗi sập tab giả lập khi bấm Quét (lọc cổng lẻ ADB và đồng bộ tra cứu tên giả lập)
 
 ### Update Notes (EN)
-Fix unsupported 900x1600 resolution error (#E-302) on MuMu emulators.
+Fix emulator tab crash on Scan (probe odd ADB ports only and serialize emulator CLI/netstat lookups)
