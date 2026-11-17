@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.39`
-- **Updated At**: `2026-11-17 10:46:41`
+- **Latest Version**: `v6.0.40`
+- **Updated At**: `2026-11-17 11:48:58`
 
 ### Nội dung cập nhật (VI)
-Tối ưu hóa cơ chế zoom_out (u2) cho đa giả lập: tái sử dụng worker thread chống kẹt khi timeout, tự phục hồi uiautomator và thử lại khi lỗi kết nối.
+Nâng cấp cơ chế zoom_out sang u2 gesture vùng giữa bản đồ an toàn, hỗ trợ tự co giãn mọi độ phân giải và né hoàn toàn thanh UI/nút bấm.
 
 ### Update Notes (EN)
-Optimized u2 zoom_out for multi-emulator stability: reused worker thread to prevent hang lockouts, auto-reset uiautomator and retry on transient RPC errors.
+Upgraded zoom_out to u2 safe map-center gesture with automatic resolution scaling, avoiding all UI bars and buttons.
