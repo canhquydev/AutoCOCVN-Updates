@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.47`
-- **Updated At**: `2026-11-18 20:59:15`
+- **Latest Version**: `v6.0.48`
+- **Updated At**: `2026-11-18 23:52:07`
 
 ### Nội dung cập nhật (VI)
-Xác nhận chạm đáy 2 lần liên tiếp khi lướt danh sách tài khoản để tránh dừng sớm khi vuốt hụt.
+Nâng cấp giao diện hộp thoại đóng/thu nhỏ ứng dụng với logo AutoCOCVN, checkbox dark-mode và nút bo góc sắc nét.
 
 ### Update Notes (EN)
-Confirm list bottom with 2 consecutive checks when scrolling accounts to prevent premature stop.
+Upgraded close/minimize confirmation dialog with AutoCOCVN logo, custom dark checkbox, and anti-aliased rounded buttons.
