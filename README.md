@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.42`
-- **Updated At**: `2026-11-18 15:39:19`
+- **Latest Version**: `v6.0.43`
+- **Updated At**: `2026-11-18 16:14:24`
 
 ### Nội dung cập nhật (VI)
-Tự động chụp & lưu tài khoản Supercell ID (0% OCR, Adaptive Scroll mọi DPI), thêm cấu hình Thời gian chờ danh sách tài khoản (mặc định 5s), tự động tắt nâng tường sau 3 đợt không thấy tường, và tối ưu giao diện Quản Lý Tài Khoản 2 cột.
+Thêm nút nổi Hướng Dẫn (coc.quyinvis.net/guide) gọn nhẹ không gây lag ở góc dưới trái, đồng bộ giao diện thu nhỏ Quản Lý Tài Khoản và tối ưu cuộn bảng tài khoản.
 
 ### Update Notes (EN)
-Added Auto-Capture Supercell ID accounts (0% OCR, DPI-invariant Adaptive Scroll), Account List Wait Delay config (default 5s), auto-disable wall upgrade after 3 empty rounds, and polished 2-pane Account Manager UI.
+Added lightweight floating Guide button (coc.quyinvis.net/guide) at bottom-left, polished responsive Account Manager layout and table scrolling.
