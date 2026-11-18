@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.46`
-- **Updated At**: `2026-11-18 20:14:28`
+- **Latest Version**: `v6.0.47`
+- **Updated At**: `2026-11-18 20:59:15`
 
 ### Nội dung cập nhật (VI)
-Thêm tùy chọn Zoom v2 (cảm ứng đa điểm trực tiếp) trong Tiện Ích & Tự Động
+Xác nhận chạm đáy 2 lần liên tiếp khi lướt danh sách tài khoản để tránh dừng sớm khi vuốt hụt.
 
 ### Update Notes (EN)
-Add Zoom v2 (direct multi-touch input) option in Auto Utilities
+Confirm list bottom with 2 consecutive checks when scrolling accounts to prevent premature stop.
