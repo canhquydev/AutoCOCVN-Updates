@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
 - **Latest Version**: `v6.0.46`
-- **Updated At**: `2026-11-18 20:03:55`
+- **Updated At**: `2026-11-18 20:14:28`
 
 ### Nội dung cập nhật (VI)
-Nhận diện tài khoản avatar trắng (gà trắng) và sửa lỗi tự động thêm tài khoản dừng lướt sớm trước khi chạm đáy.
+Thêm tùy chọn Zoom v2 (cảm ứng đa điểm trực tiếp) trong Tiện Ích & Tự Động
 
 ### Update Notes (EN)
-Detect white-avatar Supercell ID accounts and fix auto-capture stopping before reaching list bottom.
+Add Zoom v2 (direct multi-touch input) option in Auto Utilities
