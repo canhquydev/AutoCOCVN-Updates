@@ -1,7 +1,7 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.48`
-- **Updated At**: `2026-11-19 10:10:31`
+- **Latest Version**: `v6.0.49`
+- **Updated At**: `2026-11-19 10:23:41`
 
 ### Nội dung cập nhật (VI)
 Tối ưu Zoom v2 tương thích đa giả lập (MuMu Player, LDPlayer)
