@@ -1,10 +1,11 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.49`
-- **Updated At**: `2026-11-19 10:23:41`
+Latest version `v6.0.50`
 
-### Nội dung cập nhật (VI)
-Tối ưu Zoom v2 tương thích đa giả lập (MuMu Player, LDPlayer)
+## Tiếng Việt
+Bổ sung kiểm tra phản hồi lỗi và thử lại khi zoom bằng u2.
+Sau khi đóng bảng nâng công trình, lính hoặc tường, chờ 1 giây, zoom lần một, chờ 1 giây rồi zoom lần hai.
 
-### Update Notes (EN)
-Optimize Zoom v2 for multi-emulator compatibility (MuMu Player, LDPlayer)
+## English
+Check u2 zoom rejection results and retry failed gestures.
+After closing building, troop or wall upgrade panels, wait one second, zoom out, wait one second and zoom out again.
