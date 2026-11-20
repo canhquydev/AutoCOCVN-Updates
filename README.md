@@ -3,9 +3,11 @@
 Latest version `v6.0.50`
 
 ## Tiếng Việt
-Bổ sung kiểm tra phản hồi lỗi và thử lại khi zoom bằng u2.
-Sau khi đóng bảng nâng công trình, lính hoặc tường, chờ 1 giây, zoom lần một, chờ 1 giây rồi zoom lần hai.
+- Cập nhật cơ chế Zoom v2 theo khả năng cảm ứng của MuMu và LDPlayer.
+- Bổ sung kiểm tra phản hồi lỗi và thử lại khi zoom bằng u2.
+- Sau khi đóng bảng nâng công trình, lính hoặc tường, chờ 1 giây, zoom lần một, chờ 1 giây rồi zoom lần hai.
 
 ## English
-Check u2 zoom rejection results and retry failed gestures.
-After closing building, troop or wall upgrade panels, wait one second, zoom out, wait one second and zoom out again.
+- Update Zoom v2 using MuMu and LDPlayer touch capabilities.
+- Check u2 zoom rejection results and retry failed gestures.
+- After closing building, troop or wall upgrade panels, wait one second, zoom out, wait one second and zoom out again.
