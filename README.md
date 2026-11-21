@@ -1,13 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-Latest version `v6.0.51`
+- **Latest Version**: `v6.0.52`
+- **Updated At**: `2026-11-21 19:22:43`
 
-## Tiếng Việt
-- Cập nhật Zoom v2 cho MuMu/LDPlayer; báo lỗi khi u2 không gửi đủ thao tác zoom và khôi phục camera sau nâng cấp.
-- Sau nâng công trình, lính, tường: chờ 1 giây, zoom, chờ 1 giây, zoom lần hai.
-- Tự đóng popup sự kiện tùy chọn trước luồng đánh Capital.
+### Nội dung cập nhật (VI)
+Thêm Zoom v3 (MaaTouch đa điểm không cần root, hỗ trợ MuMu/LDPlayer/BlueStacks/Nox/MEmu).
 
-## English
-- Update Zoom v2 for MuMu/LDPlayer and report rejected u2 gestures; restore the camera after upgrades.
-- Wait one second, zoom out, wait one second and repeat after building, troop or wall upgrades.
-- Dismiss the optional event popup before the Capital battle flow.
+### Update Notes (EN)
+Added Zoom v3 (zero-root MaaTouch multi-touch zoom for MuMu/LDPlayer/BlueStacks/Nox/MEmu).
