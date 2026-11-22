@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.54`
-- **Updated At**: `2026-11-22 14:48:36`
+- **Latest Version**: `v6.0.55`
+- **Updated At**: `2026-11-22 17:19:34`
 
 ### Nội dung cập nhật (VI)
-Đưa tab cài đặt Đổi Tài Khoản lên vị trí thứ 2 trong bảng cấu hình.
+Sửa lỗi Trò Chơi Hội Làng Chính nhảy sang Đánh Rank, sửa UI NV Hội kẹt Đang quét, xác minh lính NV Hội đầu trận và thêm chọn nhiều giả lập tự động thêm tài khoản.
 
 ### Update Notes (EN)
-Move Account Switch settings tab to 2nd position in config modal.
+Fix Clan Games Main Village leaking into Rank mode, fix CG task UI stuck on scanning, verify CG troop in battle bar, and add multi-emulator batch account auto-capture.
