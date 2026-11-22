@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.53`
-- **Updated At**: `2026-11-22 11:57:51`
+- **Latest Version**: `v6.0.54`
+- **Updated At**: `2026-11-22 14:48:36`
 
 ### Nội dung cập nhật (VI)
-Tự động phát hiện lỗi kẹt cảm ứng CoC (zoom biến thành lướt), tự khởi động lại game an toàn và ghi nhật ký riêng (tối ưu đa giả lập).
+Đưa tab cài đặt Đổi Tài Khoản lên vị trí thứ 2 trong bảng cấu hình.
 
 ### Update Notes (EN)
-Added automatic CoC stuck-touch zoom detection (pan-vs-zoom recovery), auto game restart, and dedicated recovery audit log (multi-emulator optimized).
+Move Account Switch settings tab to 2nd position in config modal.
