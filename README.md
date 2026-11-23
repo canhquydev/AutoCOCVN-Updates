@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.58`
-- **Updated At**: `2026-11-23 00:29:44`
+- **Latest Version**: `v6.0.59`
+- **Updated At**: `2026-11-23 09:24:57`
 
 ### Nội dung cập nhật (VI)
-Sửa ROI nút trừ Thần Chú & Xe Công Thành trong Trò Chơi Hội; hỗ trợ vuốt qua Squads khi chọn lính Elixir/Dark; bổ sung 12 template lính Squads mới.
+Sửa lỗi đổi lính Làng Đêm cho nhà cấp thấp; chuẩn hóa thống kê số nhiệm vụ Trò Chơi Hội hoàn thành; cải thiện độ ổn định.
 
 ### Update Notes (EN)
-Fix Spell & Siege Machine minus ROI in Clan Games; add Squads-aware swipe for Elixir/Dark troops; add 12 new Squads troop templates.
+Fix Night Village troop switching for lower Builder Halls; improve Clan Games completed task statistics; general stability improvements.
