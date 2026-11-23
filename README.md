@@ -1,7 +1,7 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.60`
-- **Updated At**: `2026-11-23 21:59:22`
+- **Latest Version**: `v6.0.61`
+- **Updated At**: `2026-11-23 22:14:41`
 
 ### Nội dung cập nhật (VI)
 Sửa lỗi vuốt lính Dark Elixir không lướt khi đổi lính nhiệm vụ Clan Games; cải thiện độ ổn định.
