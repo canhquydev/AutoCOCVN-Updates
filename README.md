@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.70`
-- **Updated At**: `2026-11-26 23:23:57`
+- **Latest Version**: `v6.0.71`
+- **Updated At**: `2026-11-27 00:17:18`
 
 ### Nội dung cập nhật (VI)
-Đồng bộ trình khởi chạy; cải thiện độ ổn định kết nối và cập nhật giao diện cài đặt.
+Tối ưu giao diện và cải thiện độ ổn định.
 
 ### Update Notes (EN)
-Sync launcher; improve connection stability and update settings interface.
+Optimize user interface and improve stability.
