@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.68`
-- **Updated At**: `2026-11-26 10:50:06`
+- **Latest Version**: `v6.0.69`
+- **Updated At**: `2026-11-26 16:06:55`
 
 ### Nội dung cập nhật (VI)
-Sửa lỗi đổi lính và thần chú trong Trò Chơi Hội; sửa lỗi thiếu slot khi dùng Thần Chú Nhân Bản.
+Cải thiện độ ổn định kết nối máy chủ; cập nhật giao diện cài đặt.
 
 ### Update Notes (EN)
-Fix troop and spell switching in Clan Games; fix slot count when preparing Clone Spell.
+Improve server connection stability; update settings interface.
