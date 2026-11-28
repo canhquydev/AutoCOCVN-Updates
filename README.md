@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.76`
-- **Updated At**: `2026-11-28 12:16:44`
+- **Latest Version**: `v6.1.0`
+- **Updated At**: `2026-11-28 15:29:12`
 
 ### Nội dung cập nhật (VI)
-Tối ưu nâng tường thông minh sau mỗi trận; hỗ trợ kết hợp tự động đổi 2 làng với đổi tài khoản và tự động dừng khi đầy kho; cải thiện nhận diện chuyển làng trên nhiều giao diện làng; sửa lỗi kết nối máy chủ khi kiểm tra bản quyền trên một số máy Windows.
+Hỗ trợ nâng cấp Pet, Firecracker Tower, Spiky Tower, Squad Barracks và 12 đội hình Squad; tối ưu nâng tường và tự bỏ qua mục đang khóa; kết hợp đổi 2 làng với đổi tài khoản/dừng khi đầy kho; bổ sung tốc độ farm/giờ và đổi tên tài khoản trực tiếp; sửa lỗi tự dừng lúc khởi động và tối ưu Làng Đêm.
 
 ### Update Notes (EN)
-Optimize smart post-battle wall upgrades; support combining 2-village switching with account switch and auto-stop when storages are full; improve village switch detection across sceneries; fix license server connection error on certain Windows systems.
+Support upgrading Pets, Firecracker Tower, Spiky Tower, Squad Barracks, and 12 Squads; smarter wall upgrades and skip locked items; combine 2-village switching with full-storage account switch/auto-stop; add hourly farm rate and inline account rename; fix startup stop issue and Night Village improvements.
