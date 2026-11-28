@@ -1,10 +1,10 @@
 # AutoCOCVN Official OTA Update Repository
 
-- **Latest Version**: `v6.0.74`
-- **Updated At**: `2026-11-28 11:54:33`
+- **Latest Version**: `v6.0.75`
+- **Updated At**: `2026-11-28 12:05:52`
 
 ### Nội dung cập nhật (VI)
-Bổ sung mã hỗ trợ khi kiểm tra bản quyền; cải thiện độ ổn định khởi động.
+Cải thiện thông báo hỗ trợ khi kiểm tra bản quyền; cải thiện độ ổn định.
 
 ### Update Notes (EN)
-Add support codes for license verification; improve startup stability.
+Improve license verification support diagnostics; general stability improvements.
